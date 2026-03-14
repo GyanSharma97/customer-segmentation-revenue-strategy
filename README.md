@@ -1,3 +1,6 @@
+## Project Structure
+
+```
 Customer-Segmentation-Revenue-Analysis
 │
 ├── Dataset
@@ -10,6 +13,7 @@ Customer-Segmentation-Revenue-Analysis
 │   └── tableau_dashboard.pdf
 │
 └── README.md
+```
 
 ## Business Insights
 
